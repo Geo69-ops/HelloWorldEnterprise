@@ -1,7 +1,7 @@
 package com.hwe.helloworldenterprise.controller;
 
 import com.hwe.helloworldenterprise.entity.Employee;
-import com.hwe.helloworldenterprise.services.IEmployeeService;
+import com.hwe.helloworldenterprise.service.IEmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
